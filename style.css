@@ -156,20 +156,3 @@ body{
 .upload-preview{ display:flex; align-items:center; gap:8px; margin-left:12px; }
 .upload-actions{ display:flex; align-items:center; gap:12px; padding:12px 20px; }
 
-.github-container {
-    display: flex;
-    align-items: center; /* Inay isku heer noqdaan sawirka iyo qoraalka */
-    gap: 8px;           /* Masaafada u dhaxaysa sawirka iyo qoraalka */
-    background-color: #1a1b1e; /* Midabka madow ee background-ka */
-    padding: 5px 12px;
-    border-radius: 6px;
-    color: #e6edf3;     /* Midabka qoraalka */
-    font-family: Arial, sans-serif;
-    width: fit-content;
-}
-
-.icon-img {
-    width: 20px;        /* Cabirka sawirka yar */
-    height: 20px;
-    object-fit: contain;
-}
